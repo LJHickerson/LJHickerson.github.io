@@ -137,7 +137,7 @@ i:hover{
 	}
 }
 
-@media screen and (max-width: 530px){
+@media screen and (max-width: 640px){
 	#sub-header .title h1{
 		display: none;
 	}
